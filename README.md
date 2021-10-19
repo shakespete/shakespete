@@ -16,8 +16,8 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 - 📫 &nbsp;&nbsp;You can reach me at: [twitter.com/con10tmalcon10t](twitter.com/con10tmalcon10t)<br/>
 - 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭 &nbsp;&nbsp;and used to work at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚&nbsp;&nbsp;🏃🏻‍♂️&nbsp;&nbsp;🎮<br/>
-- ⚡️ &nbsp;&nbsp;Fun fact: I can write down Pi to the 66th decimal place<br/><br/>
-
+- ⚡️ &nbsp;&nbsp;Fun fact: I can write down Pi to the 66th decimal place<br/>
+- ✨ &nbsp;&nbsp;Mob info: I drop legendary loots when defeated<br/><br/>
 
 
 
