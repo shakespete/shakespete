@@ -12,7 +12,7 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
 
-- 📖 &nbsp;&nbsp;Currently reading: [Capital in the 21st Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) by Thomas Pinketty<br/>
+- 📖 &nbsp;&nbsp;Currently reading: [Capital in the 21st Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) by Thomas Piketty<br/>
 - 📫 &nbsp;&nbsp;You can reach me at: [twitter.com/con10tmalcon10t](twitter.com/con10tmalcon10t)<br/>
 - 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭 &nbsp;&nbsp;and used to work at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚&nbsp;&nbsp;🏃🏻‍♂️&nbsp;&nbsp;🎮<br/>
