@@ -2,7 +2,9 @@
 
 I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia 🦘🇦🇺 
 
-<img src="https://github.com/shakespete/shakespete/blob/main/jake_the_wise.gif" align="right" width="350" height="auto">
+<img src="https://github.com/shakespete/shakespete/blob/main/bacon_jake.gif" align="right" width="350" height="auto">
+
+“To live life, you need problems. If you get what you want the minute you want it, then what's the point of living?” ― Jake the Dog
 
 <h5>AT THE MOMENT:</h5>
 
