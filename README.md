@@ -11,7 +11,10 @@ I'm Pete! I'm a full stack software engineer in Sydney, Australia 🦘🇦🇺
 🤪 I really enjoy: 📚 🏃🏻‍♂️ 🎮<br/>
 ⚡️ Fun fact: I can write down Pi to the 66th decimal place<br/><br/>
 
-[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakespete)](https://github.com/shakespete/github-readme-stats)
+[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakespete)](https://github.com/shakespete/github-readme-stats)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakespete)](https://github.com/shakespete/github-readme-stats)<br/>
+
 
 <!--
 **shakespete/shakespete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
