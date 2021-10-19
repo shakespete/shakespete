@@ -14,7 +14,7 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 
 📖 Currently reading: [Capital in the 21st Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) by Thomas Pinketty<br/>
 📫 You can reach me at: [twitter.com/con10tmalcon10t](twitter.com/con10tmalcon10t)<br/>
-🌏 I emigrated from the 🇵🇭 and used to work at [Samsung R&D](https://research.samsung.com/srph)<br/>
+🌏 I emigrated from 🇵🇭 and used to work at [Samsung R&D](https://research.samsung.com/srph)<br/>
 🤪 I really enjoy: 📚 🏃🏻‍♂️ 🎮<br/>
 ⚡️ Fun fact: I can write down Pi to the 66th decimal place<br/><br/>
 
