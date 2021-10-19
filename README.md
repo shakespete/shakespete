@@ -2,6 +2,10 @@
 
 I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia 🦘🇦🇺 
 
+<p align="right">
+  <img src="https://github.com/shakespete/shakespete/blob/master/jake.gif">
+</p>
+
 <h5>AT THE MOMENT:</h5>
 
 - 🏢 &nbsp;&nbsp;I'm working at [InvertiGro](https://www.invertigro.com/)<br/>
