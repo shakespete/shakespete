@@ -11,13 +11,13 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 - 🏢 &nbsp;&nbsp;I'm working at [InvertiGro](https://www.invertigro.com/)<br/>
 - 💻 &nbsp;&nbsp;I work with these daily: JS, React, Node, GraphQL, Postgres<br/>
 - 🌱 &nbsp;&nbsp;I'm learning: Kubernetes, Kafka<br/>
-- 🔭 &nbsp;&nbsp;I'm trying to go more deeply into: React, Docker, Microservices<br/>
+- 🔭 &nbsp;&nbsp;I'm diving more deeply into: React, Docker, Microservices<br/>
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
 
 - 📖 &nbsp;&nbsp;Currently reading: [Capital in the 21st Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) by Thomas Piketty<br/>
-- 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭 &nbsp;&nbsp;and used to work at [Samsung R&D](https://research.samsung.com/srph)<br/>
+- 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭&nbsp;&nbsp;and used to work at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚&nbsp;&nbsp;🏃🏻‍♂️&nbsp;&nbsp;🎮<br/>
 - ⚡️ &nbsp;&nbsp;Fun fact: I can write down Pi to the 66th decimal place<br/>
 - ✨ &nbsp;&nbsp;Mob info: I drop legendary loots when defeated<br/>
