@@ -2,9 +2,7 @@
 
 I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia 🦘🇦🇺 
 
-<p align="right">
-  <img src="https://github.com/shakespete/shakespete/blob/master/jake.gif">
-</p>
+<img src="https://github.com/shakespete/shakespete/blob/main/jake.gif" align="right" width="350" height="auto">
 
 <h5>AT THE MOMENT:</h5>
 
