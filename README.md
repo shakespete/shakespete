@@ -9,7 +9,7 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 <h5>AT THE MOMENT:</h5>
 
 - 💼 &nbsp;&nbsp;I'm working at: [InvertiGro](https://www.invertigro.com/)<br/>
-- 💻 &nbsp;&nbsp;I work with this tech stack daily: JS, React, Node, GraphQL, Postgres<br/>
+- 💻 &nbsp;&nbsp;I work with this tech stack daily: JS, React, Node, GraphQL<br/>
 - 🌱 &nbsp;&nbsp;I'm learning: Kubernetes, Kafka<br/>
 - 🔭 &nbsp;&nbsp;I'm diving more deeply into: React, Docker, Microservices<br/>
 - 👨🏻‍💻 &nbsp;&nbsp;On my spare time: I do some [problem solving](https://www.hackerrank.com/shakespete) with C++<br/>
