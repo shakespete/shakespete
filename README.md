@@ -9,10 +9,20 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 <h5>AT THE MOMENT:</h5>
 
 - 💼 &nbsp;&nbsp;I'm working at: [InvertiGro](https://www.invertigro.com/)<br/>
-- 💻 &nbsp;&nbsp;I work with this tech stack daily: JS, React, Node, GraphQL<br/>
-- 🌱 &nbsp;&nbsp;I'm learning: Kubernetes, Kafka<br/>
-- 🔭 &nbsp;&nbsp;I'm diving more deeply into: React, Docker, Microservices<br/>
-- 👨🏻‍💻 &nbsp;&nbsp;On my spare time: I work on my [problem solving](https://www.hackerrank.com/shakespete) with C++<br/>
+- 💻 &nbsp;&nbsp;I work with this tech stack daily:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" /></a>
+<a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" height="20" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /></a><br/>
+- 🌱 &nbsp;&nbsp;I'm learning: <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" height="20" /></a>
+<a href="https://www.confluent.io/what-is-apache-kafka/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="20" height="20" /></a><br/>
+- 🔭 &nbsp;&nbsp;I'm diving more deeply into: 
+<a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /></a><br/>
+- 👨🏻‍💻 &nbsp;&nbsp;On my spare time: I work on my [problem solving](https://www.hackerrank.com/shakespete) with <a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a><br/>
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
