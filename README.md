@@ -23,7 +23,7 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia �
 <a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /></a><br/>
-- 👨🏻‍💻 &nbsp;&nbsp;On my spare time: I work on my [problem solving](https://www.hackerrank.com/shakespete) with <a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a><br/>
+- 👨🏻‍💻 &nbsp;&nbsp;On my spare time: I work on my problem solving with <a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a><br/>
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
