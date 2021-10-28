@@ -1,6 +1,6 @@
-### Henlo! 🐶
+### Hello there! 🖖🏼
 
-I'm Pete! I'm a self-taught full stack software engineer in Sydney, Australia 🦘🇦🇺 
+I'm Pete! I'm a self-taught full stack software engineer in Sydney 🇦🇺 
 
 <img src="https://github.com/shakespete/shakespete/blob/main/bacon_jake.gif" align="right" width="350" height="auto">
 
