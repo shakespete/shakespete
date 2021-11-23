@@ -9,9 +9,9 @@ I'm Pete! I'm a self-taught full stack software engineer in Sydney 🇦🇺
 <h5>AT THE MOMENT:</h5>
 
 - 💼 &nbsp;&nbsp;I'm working at: [InvertiGro](https://www.invertigro.com/)<br/>
-- 💻 &nbsp;&nbsp;I work with this tech stack daily:
+- 💻 &nbsp;&nbsp;I work with this tech stack daily: <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
+<a href="https://moleculer.services/" target="_blank"><img src="https://github.com/shakespete/shakespete/blob/main/moleculer.svg" width="20" height="20" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" /></a>
 <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" height="20" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" /></a>
