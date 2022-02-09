@@ -27,7 +27,7 @@ I'm Pete! I'm a full stack software engineer in Sydney 🇦🇺
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
-- 📖 &nbsp;&nbsp;Currently reading: [Capital in the 21st Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) by Thomas Piketty<br/>
+- 📖 &nbsp;&nbsp;Currently reading: [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) by Steve Klabnik and Carol Nichols<br/>
 - 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭&nbsp;&nbsp;and previously worked at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚 &nbsp;&nbsp;🏃🏻‍♂️ &nbsp;&nbsp;🎮 &nbsp;&nbsp;🍣 &nbsp;&nbsp;🍰 <br/>
 - 👻 &nbsp;&nbsp;When startled my go to response is: Jazz Hands<br/>
