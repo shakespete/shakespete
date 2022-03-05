@@ -8,7 +8,7 @@ I'm Pete! I'm a full stack software engineer in Sydney 🇦🇺
 
 <h5>AT THE MOMENT:</h5>
 
-- 💼 &nbsp;&nbsp;I'm working at: [InvertiGro](https://www.invertigro.com/)<br/>
+- 💼 &nbsp;&nbsp;I work at: [InvertiGro](https://www.invertigro.com/)<br/>
 - 💻 &nbsp;&nbsp;I work with this tech stack daily: <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
 <a href="https://moleculer.services/" target="_blank"><img src="https://github.com/shakespete/shakespete/blob/main/moleculer.svg" width="20" height="20" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" /></a>
@@ -17,8 +17,7 @@ I'm Pete! I'm a full stack software engineer in Sydney 🇦🇺
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" /></a><br/>
-- 🌱 &nbsp;&nbsp;I'm learning: <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" height="20" /></a>
-<a href="https://www.confluent.io/what-is-apache-kafka/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="20" height="20" /></a><br/>
+- 🌱 &nbsp;&nbsp;I'm learning: <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20" height="20" /></a><br/>
 - 🔭 &nbsp;&nbsp;I'm diving more deeply into: 
 <a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
@@ -27,7 +26,7 @@ I'm Pete! I'm a full stack software engineer in Sydney 🇦🇺
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
-- 📖 &nbsp;&nbsp;Currently reading: [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) by Steve Klabnik and Carol Nichols<br/>
+- 📖 &nbsp;&nbsp;Currently reading: The Hobbit by J.R.R. Tolkien<br/>
 - 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭&nbsp;&nbsp;and previously worked at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚 &nbsp;&nbsp;🏃🏻‍♂️ &nbsp;&nbsp;🎮 &nbsp;&nbsp;🍣 &nbsp;&nbsp;🍰 <br/>
 - 👻 &nbsp;&nbsp;When startled my go to response is: Jazz Hands<br/>
