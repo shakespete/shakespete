@@ -20,14 +20,13 @@ I'm Pete! I'm a full stack software engineer in Sydney 🇦🇺
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" /></a><br/>
 - 🌱 &nbsp;&nbsp;I'm learning: <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20" height="20" /></a><br/>
 - 🔭 &nbsp;&nbsp;I'm diving more deeply into: 
-<a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /></a><br/>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20" /></a><br/>
 - 👨🏻‍💻 &nbsp;&nbsp;On my spare time: I work on my problem solving with <a href="https://www.cplusplus.com/info/faq/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /></a><br/>
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
-- 📖 &nbsp;&nbsp;Currently reading: JFK Vol. I by Fredrik Logevall<br/>
+- 📖 &nbsp;&nbsp;Currently reading: Kitchen Confidential by Anthony Bourdain<br/>
 - 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭&nbsp;&nbsp;and previously worked at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚 &nbsp;&nbsp;🏃🏻‍♂️ &nbsp;&nbsp;🎮 &nbsp;&nbsp;🍣 &nbsp;&nbsp;🍰 <br/>
 - 👻 &nbsp;&nbsp;When startled my go to response is: Jazz Hands<br/>
