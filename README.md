@@ -26,7 +26,7 @@ I'm Pete! I'm a full stack software engineer in Sydney 🇦🇺
 
 <h5>A LITTLE MORE ABOUT ME:</h5>
 
-- 📖 &nbsp;&nbsp;Currently reading: Kitchen Confidential by Anthony Bourdain<br/>
+- 📖 &nbsp;&nbsp;Currently reading: Mary Shelley's Frankenstein<br/>
 - 🌏 &nbsp;&nbsp;I emigrated from 🇵🇭&nbsp;&nbsp;and previously worked at [Samsung R&D](https://research.samsung.com/srph)<br/>
 - 🤪 &nbsp;&nbsp;I really enjoy: 📚 &nbsp;&nbsp;🏃🏻‍♂️ &nbsp;&nbsp;🎮 &nbsp;&nbsp;🍣 &nbsp;&nbsp;🍰 <br/>
 - 👻 &nbsp;&nbsp;When startled my go to response is: Jazz Hands<br/>
